@@ -8,13 +8,13 @@
 - :woman: 💻 Aprendiendo a programar 
 - 🤔 Considero GitHub una herramienta útil para mi aprendizaje.
 - 💬 Espero llevar una clase provechosa, mejorar y avanzar
-- ⚡ Exalumna de la preparatoría iberoamericana
-- 😄 Pasatiempo: Ajedrez
+- :school: Exalumna de la preparatoría iberoamericana
+- :trophy: Pasatiempo: Ajedrez
 
 
- ######*🏫 Materia: Lenguajes de Interfaz *
+ ######* :blue_book: Materia: Lenguajes de Interfaz *
 
-Horario de Lenguajes de interfaz:
+####### :clock2: Horario de Lenguajes de interfaz:
 
 | Materia               	| Lunes   	| Martes  	| Miercoles 	| Jueves  	|
 |-----------------------	|---------	|---------	|-----------	|---------	|

@@ -24,4 +24,11 @@ Horario de Lenguajes de interfaz:
 <En el Ajedrez, como en la vida, el adversario más peligroso es uno mismo. (V. Smislov). 
 
 [banner]: https://images.cooltext.com/5466668.png
+
+
+
+
+
+
+
 <a href="https://cooltext.com" target="_top">Cool Text: Logo and Graphics Generator</a>

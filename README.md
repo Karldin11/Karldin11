@@ -14,7 +14,7 @@
 
 
 
-*Materia: Lenguajes de Interfaz* :blue_book:
+:blue_book: *Materia: Lenguajes de Interfaz* 
 
 
  #### Horario de Lenguajes de interfaz  :clock2:

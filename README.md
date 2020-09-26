@@ -12,12 +12,12 @@
 - :trophy: Pasatiempo: Ajedrez
 
 
-:blue_book:
 
-*Materia: Lenguajes de Interfaz *
 
-:clock2:
- #### Horario de Lenguajes de interfaz:
+*Materia: Lenguajes de Interfaz* :blue_book:
+
+
+ #### Horario de Lenguajes de interfaz  :clock2:
 
 | Materia               	| Lunes   	| Martes  	| Miercoles 	| Jueves  	|
 |-----------------------	|---------	|---------	|-----------	|---------	|

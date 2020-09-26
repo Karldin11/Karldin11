@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hola a todos 👋
 
-<!--
-**Karldin11/Karldin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![bg][banner]]
+### ✨Soy Karla Urrea ✨.
+### Estudiante de Instituto Tecnológico de Tijuana 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏼‍💻 building [murphee][murphee]  
+🧠 learning [svelte][svelte], [tailwind][tailwind], [fauna][fauna]  
+💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[banner]: C:\Users\karlaa\Downloads\karla.png
+

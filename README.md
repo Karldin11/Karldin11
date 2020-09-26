@@ -5,17 +5,11 @@
 ### Estudiante de Instituto Tecnológico de Tijuana 
 
 
-👨🏼‍💻 building [murphee][murphee]  
-🧠 learning [svelte][svelte], [tailwind][tailwind], [fauna][fauna]  
-💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+👨🏼‍💻 Aprendiendo a programar 
+🧠 Lenguajes de Interfaz 
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
 
-[banner]: C:\Users\karlaa\Downloads\karla.png
+[banner]: https://images.cooltext.com/5466668.png
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5466668.png" width="285" height="65" alt="Karla Urrea" /></a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3636948155">Create Your Own Logo</a>
 

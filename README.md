@@ -5,14 +5,14 @@
 ### Estudiante de Instituto Tecnológico de Tijuana 
 
 
--👨🏼‍💻 Aprendiendo a programar 
+- 👨🏼‍💻 Aprendiendo a programar 
 - 🤔 Considero GitHub una herramienta útil para mi aprendizaje.
 - 💬 Espero llevar una clase provechosa, mejorar y avanzar
 - ⚡ Exalumna de la preparatoría iberoamericana
 - 😄 Pasatiempo: Ajedrez
 
 
-🧠* Materia: Lenguajes de Interfaz *
+🧠 * Materia: Lenguajes de Interfaz *
 
 Horario de Lenguajes de interfaz:
 

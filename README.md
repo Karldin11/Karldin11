@@ -1,15 +1,21 @@
-### Hola a todos 👋
+
 
 [![bg][banner]]
-### ✨Soy Karla Urrea ✨.
+### Hola a todos 👋
 ### Estudiante de Instituto Tecnológico de Tijuana 
 
 
 👨🏼‍💻 Aprendiendo a programar 
-🧠 Lenguajes de Interfaz 
+
+🧠 Materia: Lenguajes de Interfaz 
+
+Horario de Lenguajes de interfaz:
+
+| Materia               	| Lunes   	| Martes  	| Miercoles 	| Jueves  	|
+|-----------------------	|---------	|---------	|-----------	|---------	|
+| Lenguajes de interfaz 	| 2:00 pm 	| 2:00 pm 	| 2:00 pm   	| 2:00 pm 	|
+
 
 
 [banner]: https://images.cooltext.com/5466668.png
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5466668.png" width="285" height="65" alt="Karla Urrea" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3636948155">Create Your Own Logo</a>
-
+<a href="https://cooltext.com" target="_top">Cool Text: Logo and Graphics Generator</a>

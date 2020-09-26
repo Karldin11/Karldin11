@@ -24,7 +24,7 @@
 | Lenguajes de interfaz 	| 2:00 pm 	| 2:00 pm 	| 2:00 pm   	| 2:00 pm 	|
 
 
-<En el Ajedrez, como en la vida, el adversario más peligroso es uno mismo. (V. Smislov). 
+>En el Ajedrez, como en la vida, el adversario más peligroso es uno mismo. (V. Smislov). 
 
 [banner]: https://images.cooltext.com/5466668.png
 

@@ -1,14 +1,11 @@
 
 
 ![bg][banner]
-### Hola a todos 👋
-#### Estudiante de Instituto Tecnológico de Tijuana 
-
-
-- :woman: 💻 Aprendiendo a programar 
-- 🤔 Considero GitHub una herramienta útil para mi aprendizaje.
-- :trophy: Pasatiempo: Ajedrez
->En el Ajedrez, como en la vida, el adversario más peligroso es uno mismo. (V. Smislov). 
+Busco trabajar de manera eficiente y atenta. Mi objetivo es
+aprender y beneficiar tanto a la empresa como a mi
+desarrollo profesional.
+Me entusiasma trabajar con diseñadores y otros
+desarrolladores para lanzar aplicaciones y páginas web
 
 [banner]: https://images.cooltext.com/5466668.png
 

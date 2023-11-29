@@ -1,9 +1,15 @@
 
 
 ![bg][banner]
-Busco trabajar de manera eficiente y atenta.
-Me entusiasma trabajar con diseñadores y otros
-desarrolladores para lanzar aplicaciones y páginas web
+- :woman: 💻 Aprendiendo a programar 
+- 🤔 Considero GitHub una herramienta útil para mi aprendizaje.
+- 💬 Busco trabajar de manera eficiente y atenta.
+- Me entusiasma trabajar con diseñadores y otros desarrolladores para lanzar aplicaciones y páginas web
+- :school: Instituto Tecnológico de Tijuana
+- :trophy: Pasatiempo: Ajedrez
+>En el Ajedrez, como en la vida, el adversario más peligroso es uno mismo. (V. Smislov). 
+
+
 
 [banner]: https://images.cooltext.com/5466668.png
 

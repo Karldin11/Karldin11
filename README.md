@@ -1,9 +1,7 @@
 
 
 ![bg][banner]
-Busco trabajar de manera eficiente y atenta. Mi objetivo es
-aprender y beneficiar tanto a la empresa como a mi
-desarrollo profesional.
+Busco trabajar de manera eficiente y atenta.
 Me entusiasma trabajar con diseñadores y otros
 desarrolladores para lanzar aplicaciones y páginas web
 

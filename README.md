@@ -1,8 +1,7 @@
 
 
 ![bg][banner]
-- :woman: 💻 Progrmando 
-- 🤔 Considero GitHub una herramienta útil para mi aprendizaje.
+- :woman: 💻 Programando 
 - 💬 Busco trabajar de manera eficiente y atenta.
 - Me entusiasma trabajar con diseñadores y otros desarrolladores para lanzar aplicaciones y páginas web
 - :school: Instituto Tecnológico de Tijuana
